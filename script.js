@@ -1,6 +1,6 @@
 // PENGATURAN FIREBASE (Isi sesuai detail Firebase kamu)
 const firebaseConfig = {
-    databaseURL: "https://URL_DATABASE_KAMU.firebaseio.com/"
+    databaseURL: "smart-hidroponik2-default-rtdb.asia-southeast1.firebasedatabase.app"
 };
 
 // Inisialisasi Firebase
